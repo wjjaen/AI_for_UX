@@ -55,7 +55,7 @@ This is an **advanced UX/UI designer and product strategist** with AI already em
 
 ## Project Knowledge Source
 
-This user has loaded a **DesignLab AI-augmented design course** as their knowledge base. Key frameworks from that course are available in:
+This user has loaded a **AI-augmented design course** as their knowledge base. Key frameworks from that course are available in:
 
 - `skills.md` — What skills are available and when to use each
 - `design.md` — UX/UI design process and AI integration patterns
